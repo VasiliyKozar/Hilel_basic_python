@@ -1,32 +1,32 @@
 my_age = 27
-print(my_age)
+print(my_age, type(my_age))
 
 new_car = "Jeep"
-print(new_car)
+print(new_car, type(new_car))
 
 data_interview = "13 march"
-print(data_interview)
+print(data_interview, type(data_interview))
 
 avg_age = 20
-print(avg_age)
+print(avg_age, type(avg_age))
 
 number_of_case = 135
-print(number_of_case)
+print(number_of_case, type(number_of_case))
 
 love_season = "summer"
-print(love_season)
+print(love_season, type(love_season))
 
 name_of_student = "Ilya"
-print(name_of_student)
+print(name_of_student, type(name_of_student))
 
 position = "goalkeeper"
-print(position)
+print(position, type(position))
 
 number1 = 15
-print(number1)
+print(number1, type(number1))
 
 left_corner = 4
-print(left_corner)
+print(left_corner, type(left_corner))
 
 
 
