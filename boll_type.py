@@ -26,7 +26,7 @@ print(is_true3)
 is_true4 = (1 + 1 > 0) and (2 + 2 < 10) or -(-2) > 3
 print(is_true4)
 
-nicht = not False -(-2) < 3 or (2 > 1) or (1 < 0)
+is_true5 = not False -(-2) < 3 or (2 > 1) or (1 < 0)
 print(nicht)
 
 # 4. logical values
