@@ -14,7 +14,7 @@ comprasions3 = 5 >= 5
 print(comprasions3)
 
 # 3. Five combination
-is_true1 = (4 > 3 + 0) or (3 < 5-1) or (1<0)
+is_true1 = (4 > 3 + 0) or (3 < 5-1) or (1 < 0)
 print(is_true1)
 
 is_true2 = (1 > 1 - 2 ) or (3 + 5 < 10) and (1 < 0)
